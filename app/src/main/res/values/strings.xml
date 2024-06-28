@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toolbar</string>
+    <string name="Listagem_aluno">Listagem Aluno</string>
+    <string name="Listagem_professor">Listagem Professor</string>
+    <string name="Listagem_adm">Área do ADM🥸</string>
+    <string name="Listagem_turma">Turmas</string>
+</resources>
